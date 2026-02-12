@@ -11,9 +11,9 @@
 ### 👩‍💻 About Me
 - 🎓 B.Tech CSE (AI & ML) Student
 - 🏫 Malla Reddy Engineering College for Women  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+- 🤖 Passionate about ** Software Engineer, Artificial Intelligence, Machine Learning, Data Science**
 - 💻 Aspiring Software Engineer at top MNC  
-- 🌱 Currently learning **Advanced AI, DSA & Full Stack Development**
+- 🌱 Currently learning **Advanced AI, Advanced Java & DSA **
 - 🚀 Love building real-world AI projects & innovative solutions  
 
 ---
@@ -22,8 +22,8 @@
 🔹 **AI Intern – AICTE TechSaksham (2025)**  
 - Built AI-based fitness tracker predicting calories & giving workout suggestions using ML  
 
-🔹 **Web Development Intern – TheBlackPearls (2024)**  
-- Developed responsive website using HTML, CSS, Bootstrap & JavaScript  
+🐦 **AI Azure Intern - AICTE Microsoft (2025)**  
+- Built a machine learning model to detect malicious Twitter bots based on user behavior and activity patterns.
 
 ---
 
@@ -31,17 +31,14 @@
 💳 **Payment Fraud Detection using Meta Learning**  
 - Built intelligent model to detect fraud with high accuracy & low cost  
 
-🐦 **Malicious Twitter Bot Detection (ML)**  
-- Classified fake vs real accounts using behavioral pattern analysis  
-
-🏋️ **AI Fitness Tracker (ML Web App)**  
-- Predicts calories burned & suggests personalized workouts  
+😊💬 **Emotion Recognition in Text using NLP**  
+- Built an NLP-based system that detects human emotions from text automatically. 
 
 ---
 
 ### 🛠️ Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,html,css,tensorflow,pytorch,sklearn&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,html,css,tensorflow,streamlit&perline=6" />
 </p>
 
 **Core Skills:**  
