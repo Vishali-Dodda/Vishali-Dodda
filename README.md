@@ -73,7 +73,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vishali-dodda&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishali-dodda&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishali-dodda&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
