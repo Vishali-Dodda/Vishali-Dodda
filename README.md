@@ -68,16 +68,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishali-dodda&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishali-dodda&theme=tokyonight"/>
-</p>
-
----
-
-### ✨ Fun Quote
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=AI+Engineer+in+Progress...;Turning+Ideas+into+Intelligence!;Future+Software+Engineer+🚀" />
-</p>
