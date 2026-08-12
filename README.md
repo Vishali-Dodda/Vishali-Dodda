@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishali Dodda</h1>
-<h3 align="center">🤖 AI & Machine Learning Enthusiast | Future Software Engineer 🚀</h3>
+<h3 align="center">🤖 Future Software Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
@@ -11,10 +11,9 @@
 ### 👩‍💻 About Me
 - 🎓 B.Tech CSE (AI & ML) Student
 - 🏫 Malla Reddy Engineering College for Women  
-- 🤖 Passionate about ** Software Engineer, Artificial Intelligence, Machine Learning, Data Science**
+- 🤖 Passionate about Software Engineer, Backend Developer, AIML Engineer
 - 💻 Aspiring Software Engineer at top MNC  
-- 🌱 Currently learning **Advanced AI, Advanced Java & DSA **
-- 🚀 Love building real-world AI projects & innovative solutions  
+- 🚀 Love building real-world innovative solutions
 
 ---
 
@@ -28,6 +27,7 @@
 ---
 
 ### 🚀 Projects
+
 💳 **Payment Fraud Detection using Meta Learning**  
 - Built intelligent model to detect fraud with high accuracy & low cost  
 
@@ -42,7 +42,7 @@
 </p>
 
 **Core Skills:**  
-`Java` `Python` `C` `SQL` `HTML/CSS`  
+`Java` `Python` `SQL` `HTML/CSS` `MERN Stack` `Django` `REST API`
 `Machine Learning` `Artificial Intelligence`  
 `Data Structures & Algorithms` `Git/GitHub`
 
